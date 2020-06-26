@@ -7,3 +7,7 @@
 * [I Love PDF](https://www.ilovepdf.com/)
 * [Zamzar](https://www.zamzar.com/)
 ---
+
+
+
+> Crafted from scratch by [RexArvind](https://rexarvind.github.io/)
