@@ -3,11 +3,13 @@
 ### Images, Vectors Graphics, Illustrations and Videos
 * [Pixabay](https://pixabay.com/) for photos, vector graphics, illustrations and videos.
 * [Unsplash](https://unsplash.com/)
+* [Pexels](https://www.pexels.com/)
 
 ---
 
 ### PDFs Modifications and Conversions
 * [I Love PDF](https://www.ilovepdf.com/)
+* [Smallpdf](https://smallpdf.com/)
 * [Zamzar](https://www.zamzar.com/)
 
 ---
